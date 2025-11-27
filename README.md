@@ -19,4 +19,4 @@ Dynamic prediction model: Predict T2DM risk using data from one/multiple time po
 `res2$predictions$sl`  
 `res2$times`  
 
-Please contact houlei@bicmr.pku.edu.cn for any questions. We will continue to update this R package and reduce the problems that may be encountered during its installation.
+Please contact houlei@bicmr.pku.edu.cn for any questions.
